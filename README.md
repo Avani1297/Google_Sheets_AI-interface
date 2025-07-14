@@ -52,8 +52,9 @@ From there, you can:
 
 ## 🎥 Demo
 
-👉 [Watch the short walkthrough video](#)  
-*([(https://www.loom.com/share/7c1d3ca88d524152970c549759b222f3)])*
+👉 [Watch the short walkthrough video on Loom](https://www.loom.com/share/7c1d3ca88d524152970c549759b222f3)
+
+---
 
 ## 🧭 UX Ideas to Make It More Stakeholder-Friendly
 
