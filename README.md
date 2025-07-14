@@ -19,10 +19,11 @@ This tool lets you process bulk inputs using a single prompt, directly from Shee
 ## 🔧 How to Set It Up
 
 1. **Copy the Sheet**  
-   [👉 Click here to access the template][(https://docs.google.com/spreadsheets/d/1EPUwIw_g9idKpT1JIdx-iSx33bodcNyBuOullwy1TPk/edit?gid=0#gid=0)
-   File → Make a copy
+   [👉 Click here to access the template][(https://docs.google.com/spreadsheets/d/1EPUwIw_g9idKpT1JIdx-iSx33bodcNyBuOullwy1TPk/edit?usp=sharing)
 
-2. **Add your OpenRouter API key**  
+    File → Make a copy
+
+3. **Add your OpenRouter API key**  
    In the Apps Script editor (`Extensions → Apps Script`), update this line:  
    ```js
    const API_KEY = "your_key_here";
